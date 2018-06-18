@@ -1,0 +1,153 @@
+<!--
+	Sasha Seufert
+	June 4th, 2018
+	Javascript Challenge
+	
+	(Please see the readme file for more information on this project)
+-->
+<html>
+	<head>
+		<!--Title-->
+			<title>StreetSmart - Educational Resource for International Drivers Travelling Abroad</title>
+		<!--Metatags-->
+			<meta charset="utf-8">
+			<meta name="description" content="Educational Resource for International Drivers Travelling Abroad">
+			<meta name="keywords" content="Europe,Travel,Rules,Road,Law,International,Regulations">
+			<meta name="author" content="Sasha Seufert">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=NO, maximum-scale=1.0, minimum-scale=1.0">
+			<meta name="theme-color" content="#44a">
+		<!--Favicon-->
+			<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+		<!--Scripts-->
+			<script src="jquery.min.js"></script>
+			<script src="script.js"></script>
+		<!--Stylesheets-->
+			<style>@import "stylesheet.css";</style>
+	</head>
+	<body>
+		<div class="slide splashscreen">
+			<div class="videoContainer">
+				<video class="splashBG" autoplay loop muted>
+					<source src="media/videos/splashscreen.mp4">
+				</video>
+			</div>
+			<div class="headerContainer">
+				<div class="titleContainer">
+					<div class="interactiveLogo">
+						<img class="body" src="media/images/compass/body.png"/>
+						<img class="arrow" src="media/images/compass/arrow.png"/>
+					</div>
+					<span class="title">Street<b>Smart</b></span>
+				</div>
+				<div class="subtitle">An Educational Resource for International Drivers Travelling Abroad</div>
+			</div>
+			<div class="buttonContainer">
+				<button class="beginLearning" onclick="slide(1)">Begin Learning!</button>
+				<button class="switchLanguage" onclick="alert('Sorry, other languages are not available yet.')">Switch language</button>
+			</div>
+		</div>
+		<div class="slide countryOfOrigin">
+			<div class="interactiveMapContainer"></div>
+			<div class="instructions">
+				<div class="instructionTitle">I am travelling <span>from</span>...</div>
+				<div class="travellingFrom">
+					<select class="origin"><option selected disabled class="default">(Use the interactive map!)</option></select><br>
+					<button class="continueBtn" onclick="continueForm()" style="display: none">Continue</button>
+				</div>
+				<div class="travellingThrough" style="display: none">
+					<select class="countriesOfTravel"><option selected disabled class="default">(Use the interactive map!)</option></select><br>
+					<div class="selectedCountriesCont"><table class="selectedCountries"></table></div>
+					<button class="finishBtn" onclick="finishForm()" style="display: none">Finish</button>
+				</div>
+			</div>
+		</div>
+		<div class="slide countryInfoContainer">
+		
+			<div class="countryInfo template">
+				<div class="header">
+					<span class="title">Once you arrive in <span class="country">COUNTRY</span>...</span>
+					<img class="flag"/>
+				</div>
+				<div class="infoBody">
+					<div class="onboardRequirementsContainer">
+						<div class="subhead">Onboard your vehicle, you will require:</div>
+						<table><tr>
+							<td class="documentsRequiredContainer">
+								<ul class="documentsRequired"></ul>
+							</td>
+							<td class="equipmentRequiredContainer">
+								<table class="equipmentRequired"></table>
+							</td>
+						</tr></table>
+					</div>
+					<div class="ageCurfewSideContainer">
+						<table><tr>
+								<td class="drivingAgeContainer">
+									<div class="drivingAge">AGE</div>
+									is the minimum driving age.
+								</td>
+								<td class="curfewContainer">
+									<img src="media/images/noHorn.png" class="noHornSymbol"/>
+									<span class="curfew"></span>
+								</td>
+								<td class="sideOfTheRoadContainer">
+									<img src="media/images/driver.png" class="sideOfTheRoadImg"/>
+									In <span class="country">COUNTRY</span>, drive on the <span class="sideOfTheRoad"></span>.
+								</td>
+						</tr></table>
+					</div>
+					<div class="seatbeltsContainer">
+						<div class="subhead">Seatbelts:</div>
+						<div class="seatbelts"></div>
+					</div>
+					<div class="childrenContainer">
+						<div class="subhead">Children:</div>
+						<div class="children"></div>
+					</div>
+					<div class="priorityContainer">
+						<div class="subhead">Who has priority?</div>
+						<div class="priority"></div>
+					</div>
+					<div class="alcoholUnitsContainer">
+						<table><tr>
+								<td class="alcoholContainer">
+									<div class="alcohol">ALCOHOL_LIMIT</div>
+									is the alcohol limit.
+								</td>
+								<td class="unitsContainer">
+									<div class="unitsDisp"/></div><br>
+									The <span class="units">UNITS</span> system is used in <span class="country">COUNTRY</span>.
+								</td>
+						</tr></table>
+					</div>
+					<div class="speedLimitsContainer">
+						<div class="subhead">Speed limits:</div>
+						<table><tr>
+								<td class="motorcycle"></td>
+								<td class="car"></td>
+								<td class="carAndCaravan"></td>
+						</tr></table>
+						<div class="legend">
+							<span>Urban</span><span>Rural</span><span>Motorway</span>
+						</div>
+						<div class="snowChains"></div>
+					</div>
+					<div class="parkingContainer">
+						<div class="subhead">Parking:</div>
+						<div class="parking"></div>
+					</div>
+					<div class="signsContainer">
+						<div class="subhead">Here are some signs you may not know:</div>
+						<div class="signs"></div>
+					</div>
+					<div class="notesContainer">
+						<div class="subhead">Extra notes:</div>
+						<ul class="notes"></ul>
+						<div class="onTheSpotFines"></div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</body>
+</html>

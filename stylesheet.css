@@ -1,0 +1,442 @@
+/*
+	Sasha Seufert
+	June 4th, 2018
+	The stylesheet used for the user interface on "main.html".
+*/
+
+/* Import fonts */
+@import url("media/fonts/stylish.css");
+
+/* Main tags */
+
+body {
+	height: 100vh;
+	width: 100vw;
+	margin: 0;
+	overflow-x: hidden; /* Disable scrolling*/
+	overflow-y: hidden;
+	font: 15px Helvetica, sans-serif;
+	font-weight: 200;
+	background: #eaf2ff;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+}
+
+select {
+	background-size: 19px 20px;
+	border: dashed 1px #5a5a5a;
+	color: #5A5A5A;
+	font-weight: 200;
+	font-size: 17px;
+	border-radius: 5px;
+	width: 300px;
+	padding: 10px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-o-appearance: none;
+	appearance: none;
+	outline: none;
+	margin: 30px 10px;
+}
+
+.slide {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	min-height: 500px !important;
+	box-shadow: 0 10px 10px 5px rgba(0,0,0,0.4);
+	background: linear-gradient(white, #ccc);
+}
+
+/* Splashscreen */
+
+.slide.splashscreen {
+	background: none !important;
+}
+
+.slide.splashscreen > .videoContainer {
+	position: absolute;
+	overflow: hidden;
+	z-index: -1000;
+}
+
+@media (min-aspect-ratio: 16/9) {
+	.slide.splashscreen > .videoContainer video {
+		width: 100vw;
+		height: auto;
+	}
+}
+
+.videoContainer video {
+	height: 100%;
+	position: relative;
+	left: calc(50vw - 50%);
+}
+
+.headerContainer {
+	margin-top: 50px;
+	text-align: center;
+	padding: 0 40px;
+}
+
+.titleContainer > .title {
+	color: white;
+	font-family: 'Stylish', sans-serif;
+	font-size: 75px;
+	font-weight: 800;
+}
+
+.headerContainer .subtitle {
+	color: white;
+	font-size: 25px;
+	padding: 10px 30px;
+	display: inline-block;
+	font-family: "Comic Sans MS", sans-serif, cursive;
+}
+
+.buttonContainer {
+	text-align: center;
+	position: relative;
+	top: 150px;
+}
+
+.buttonContainer button {
+	margin: 10px 20px;
+	border-radius: 10px;
+	border-style: none;
+	opacity: 0.8;
+	font-size: 30px;
+	padding: 20px;
+	box-shadow: 0 5px 5px 0 rgba(0,0,0,0.6);
+	transition: box-shadow 0.05s, opacity 0.1s;
+}
+.buttonContainer button.beginLearning {
+	background-color: #db6;
+	color: #620;
+}
+.buttonContainer button.switchLanguage {
+	background-color: #fff;
+	color: #000;
+}
+.buttonContainer button:hover {
+	opacity: 1;
+}
+button:active {
+	box-shadow: none;
+}
+
+/* interactive compass */
+
+.interactiveLogo {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	margin-right: 10px;
+}
+
+.interactiveLogo img {
+	float: left;
+}
+
+.interactiveLogo img.body {
+	height: 50px;
+}
+
+.interactiveLogo img.arrow {
+	height: 35px;
+	position: absolute;
+	transform-origin: center center;
+}
+
+/* Interactive Map */
+.slide.countryOfOrigin {
+	min-width: 1200px;
+}
+
+.interactiveMapContainer {
+	height: 100% !important;
+	margin-left: 50px;
+	display: inline-block;
+}
+
+.interactiveMapContainer > .interactiveMap {
+	height: 75vh;
+	max-width: 40vw;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	background-color: #ccc;
+	display: inline-block;
+	padding: 50px;
+	border: solid white 5px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.6);
+}
+
+.interactiveMap * {
+	fill: #999 !important;
+}
+
+.supportedCountry, .supportedCountry * {
+	fill: #338 !important;
+	transition: fill 0.07s;
+}
+
+.supportedCountry:not(.countryOfOrigin):not(.countryOfTravel):hover, 
+.supportedCountry:not(.countryOfOrigin):not(.countryOfTravel):hover * {
+	fill: #eaeaff !important;
+	stroke: white !important;
+	stroke-width: 5px;
+}
+
+.countryOfOrigin, .countryOfOrigin > * {
+	fill: green !important;
+}
+
+.countryOfTravel, .countryOfTravel > * {
+	fill: red !important;
+}
+
+.supportedCountry.countryOfTravel:hover, .supportedCountry.countryOfTravel:hover > * {
+	fill: #a00 !important;
+}
+
+.instructions {
+	display: inline-block;
+	float: right;
+	margin: 40px;
+	text-align: right;
+}
+
+.instructionTitle {
+	font-size: 40px;
+}
+
+.continueBtn, .finishBtn {
+	margin: 5px;
+	border-radius: 10px;
+	border-style: none;
+	opacity: 0.8;
+	font-size: 20px;
+	padding: 5px 15px;
+	box-shadow: 0 5px 5px 0 rgba(0,0,0,0.6);
+	background-color: #99b;
+	transition: box-shadow 0.05s, opacity 0.1s;
+}
+
+.selectedCountriesCont {
+	max-height: 60vh;
+	overflow: scroll;
+}
+
+.selectedCountries td {
+	padding: 10px;
+}
+
+.selectedCountries tr:hover td::after {
+	content: " - remove";
+}
+
+.selectedCountries tr:hover {
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+}
+
+/*** Country Info ***/
+/** Header **/
+.countryInfo.template {
+	display: none;
+}
+
+.countryInfoContainer {
+	overflow-y: scroll !important;
+}
+
+.countryInfo .header {
+	padding: 20px;
+	font-size: 40px;
+	background-color: white;
+	border-bottom: dotted 3px #5a5a5a;
+}
+
+.countryInfo:not(:nth-child(2)):not(:first-child) .header{
+	padding-top: 60px;
+	border-top: solid #5a5a5a 5px;
+}
+
+.countryInfo .header .flag {
+	height: 40px;
+	margin-left: 50px;
+	box-shadow: 3px 3px 8px 3px rgba(0,0,0,0.5);
+}
+
+/** Info Body **/
+.countryInfo .infoBody > div {
+	border-bottom: solid #ccc 1px;
+	padding: 20px;
+}
+
+.countryInfo .infoBody .subhead {
+	font-size: 30px;
+	margin-bottom: 15px;
+	font-weight: 100;
+}
+
+/* documents */
+.onboardRequirementsContainer table {
+	width: 100%;
+}
+
+ul li {
+	line-height: 2;
+}
+
+.equipmentRequiredContainer {
+	width: 50vw;
+}
+
+.equipmentRequired img{
+	height: 35px;
+	margin-right: 20px;
+}
+
+.equipmentRequiredContainer td {
+	padding: 10px;
+}
+
+/* Age, curfew, and side of the road */
+.ageCurfewSideContainer table, .alcoholUnitsContainer table {
+	width: 100%;
+	table-layout: fixed;
+}
+
+.ageCurfewSideContainer td, .alcoholUnitsContainer td {
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+}
+
+.drivingAge, .alcohol {
+	font-weight: 800;
+	font-size: 80px;
+}
+
+.curfewContainer img, .sideOfTheRoadContainer img {
+	height: 80px;
+	max-width: 80px;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+.sideOfTheRoadImg.left {
+	transform: scaleX(-1);
+}
+
+/* Seatbelt, children, priority, and parking */
+.seatbeltsContainer, .childrenContainer, .priorityContainer, .parkingContainer {
+	padding: 20px 20px 40px 20px;
+	margin-top: 40px;
+	line-height: 1.7;
+}
+
+/* Alcohol limit and units */
+.countryInfo .alcohol {
+	color: #944;
+}
+
+.unitsDisp {
+	font-size: 60px;
+	border: dashed #5a5a5a 5px;
+	font-weight: 800;
+	color: #5a5a5a;
+	padding: 10px 30px;
+	display: inline-block;
+	border-radius: 25px;
+	margin-bottom: 20px;
+}
+.unitsDisp.metric::after {
+	content: "km/h";
+}
+.unitsDisp.imperial::after {
+	content: "mph";
+}
+
+/* Speed limits */
+.speedLimitsContainer {
+	text-align: center;
+}
+
+.speedLimitsContainer table {
+	width: 100%;
+	table-layout: fixed;
+}
+.speedLimitsContainer td {
+	overflow: scroll;
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+}
+
+.speedLimitsContainer td svg {
+	max-height: 150px;
+}
+
+.speedLimitsContainer .legend {
+	margin-bottom: 20px;
+	text-align: center;
+	font-weight: 800;
+}
+
+.speedLimitsContainer .legend span {
+	margin-right: 15px;
+	padding-left: 5px;
+	border-left: solid black 10px;
+}
+.speedLimitsContainer .legend span:nth-child(1) {
+	border-color: #00A651;
+	color: #00A651;
+}
+.speedLimitsContainer .legend span:nth-child(2) {
+	border-color: #ddbe00;
+	color: #ddbe00;
+}
+.speedLimitsContainer .legend span:nth-child(3) {
+	border-color: #BE1E2D;
+	color: #BE1E2D;
+}
+
+/* Signs */
+
+.signsContainer {
+	text-align: center;
+}
+
+.signsContainer .signDifference {
+	display: inline-block;
+	padding: 20px;
+	background-color: rgba(100,100,100,0.3);
+	border-radius: 20px;
+	text-align: center;
+	font-weight: 500;
+	margin: 10px;
+	max-width: 200px;
+}
+
+.signsContainer .signDifference img {
+	max-height: 125px;
+	max-width: 125px;
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+/* notes */
+
+.notes {
+	padding-bottom: 200px;
+}

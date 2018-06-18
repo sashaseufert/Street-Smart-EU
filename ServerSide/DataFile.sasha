@@ -1,0 +1,728 @@
+------------------------------------------------------------------------------------------
+Albania
+../media/images/6446.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+f
+f
+t
+18
+t
+f
+Vehicles approaching from the right have priority at an uncontrolled intersections.
+null
+The use of seat belts in the front seats is compulsory on all vehicles manufactured after January 1978. They are also compulsory in the rear seats of all vehicles manufactured after May 1990.
+Children travelling in the front seat and are under 12 must be in a car seat. Same applies to children in rear seats under the age of 4.
+t
+[40,80,110]
+[40,80,110]
+[40,80,110]
+t
+Prohibited parking zones marked with signs. Parking meters are not in use.
+0.01
+null
+m
+null
+------------------------------------------------------------------------------------------
+Armenia
+../media/images/3252.png
+["Full valid driving licence", "Country Abbreviation Sticker on the back of your vehicle.", "Proof of Insurance Certificate"]
+r
+t
+t
+f
+t
+18
+t
+f
+Vehicles approaching from the right have priority at an uncontrolled intersections.
+null
+All vehicles manufactured after 1978 must be equipped with fully functional seatbelts and must be worn by all passengers.
+null
+t
+[60,90,110]
+[60,90,110]
+[60,90,110]
+T
+null
+0.04
+null
+m
+Armenia roads are substandard, so drive with caution; Not all insurance companies cover travel to Armenia;
+------------------------------------------------------------------------------------------
+Austria
+../media/images/6768.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+t
+t
+t
+18
+t
+f
+Upon a "Give Way" sign or a "STOP" sign, give right of way to crossing traffic at the intersection. If these signs are not present, vehicles approaching from the right have priority. Emergency vehicles and vehicles on rails have priority over all vehicles at intersections.
+null
+All equipped seatbelts must be worn.
+null
+t
+[100,100,130]
+[100,100,130]
+[100,100,130]
+t
+No parking in areas of obstruction. Stopping is permitted for 10 min in "no parking" zones if loading or unloading a vehicle.
+0.05
+[["Sign indicating a one way street","..\/media\/images\/5284.png"],["Sign indicating that a lane ends","..\/media\/images\/9424.png"],["Sign indicating a bus lane","..\/media\/images\/7676.png"],["Pharmacy ahead","..\/media\/images\/1099.png"]]
+m
+Dashboard cameras are prohibited; Horns are prohibited in Vienna and in the vicinity of hospitals; Devices with the ability to actively search for speed cameras are prohibited;
+------------------------------------------------------------------------------------------
+Belarus
+../media/images/2540.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+t
+f
+t
+18
+t
+f
+Vehicles approaching from the right have priority at an uncontrolled intersections.
+null
+Must be worn in the front seats of the vehicle.
+Must not travel in the front if under 12.
+t
+[60,90,90]
+[60,90,110]
+[60,70,90]
+t
+There are no parking meters in Belarus.
+0.00
+[["Used to indicate snow or ice","..\/media\/images\/71.png"],["Indicates accident area","..\/media\/images\/5143.png"]]
+m
+Radar detectors are prohibited;
+------------------------------------------------------------------------------------------
+Belgium
+../media/images/108.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership"]
+r
+t
+t
+t
+t
+18
+t
+f
+Vehicles approaching from the right have priority at an uncontrolled intersections. Vehicles on a surfaced road have the right of way over vehicles on a dirt road. Drivers must give way to other motorists who intend on merging before their lane ends. Drivers must yield the right of way to busses that indicate driving away from the bus stop.
+18:00-06:00
+All passengers must wear seatbelts where equipped.
+Children under the age of three may not be carried on a motorcycle. Children up to the age of eight must be placed in a special seat on motorcycles up to 125cc.
+t
+[50,70,120]
+[50,70,120]
+[50,70,120]
+t
+Engines must be shut off when loading and unloading. Foreign disabled permits are recognized in Belgium.
+0.05
+[["Indicates that vehicles must not carry explosives.","..\/media\/images\/2957."],["https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/55\/Belgian_road_sign_C24b.svg\/120px-Belgian_road_sign_C24b.svg.png","..\/media\/images\/8061."],["Indicates pedestrian zone","..\/media\/images\/4763.png"],["Indicates bus lane.","..\/media\/images\/2861.png"],["Indicates that the driver has entered a built up area","..\/media\/images\/1160.png"],["Indicates that the driver is exiting the built up area","..\/media\/images\/3074.png"],["Toll ahead","..\/media\/images\/6981.png"]]
+m
+All motorcyclists must wear gloves, a jacket, long trousers, and boots protecting ankles, in addition to a crash helmet; Overtaking is not allowed on traffic ramps; In rural areas, vehicles over 3.5 tonnes may not overtake other vehicles on a two-lane roadway, except for farm vehicles; Residential areas have a speed limit of 20kph;
+------------------------------------------------------------------------------------------
+Bulgaria
+../media/images/3343.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+t
+t
+t
+18
+t
+t
+Priority is given to vehicles travelling on a main road indicated by a yellow diamond with a white border. Trams have right of way over other motorists, except for emergency vehicles.
+22:00-06:00
+Compulsory for all persons in the vehicle
+Children under the age of three must be put into an appropriate car seat. Children over the age of three and measuring less than 150cm must travel in a rear seat.
+t
+[50,80,100]
+[50,90,130]
+[50,70,100]
+t
+Parking is prohibited in areas where traffic may be obstructed. On a one way street, motorists may only park on the lefthand side of the roadway. Parking meters are not present, however green and blue-painted zones indicate that corresponding tickets may be bought from kiosks, permitting the driver to park in that designated area.
+0.05
+null
+m
+When driving with snow chains, the speed limit is 50km/h;
+------------------------------------------------------------------------------------------
+Croatia
+../media/images/3890.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership"]
+r
+t
+t
+t
+t
+18
+t
+t
+Priority is given to vehicles travelling on a main road indicated by a yellow diamond with a white border. Trams have right of way over other motorists, except for emergency vehicles.
+null
+All persons in the vehicle must wear a seatbelt.
+Children under 12 are not permitted in the front seats, except for children under the age of two who are placed in an appropriate child restraint. If a child in a rear-facing child restraint is places in the front seats, the airbag for that seat must be deactivated.
+t
+[110,90,130]
+[110,90,130]
+[80,80,90]
+f
+In the main city of Zagreb, red, yellow, and green-painted parking spaces are used to indicate the cost for parking, with red being the highest rate and green being the lowest.
+0.05
+null
+m
+Vehicles must use dipped headlights at night during bad visibility; Vehicles must carry spare headlight bulbs, with the exception of vehicles bearing xenon, neon, or LED bulbs; From the beginning of November to the end of April, it is required for each vehicle to be equipped with a snow-chain and a shovel; Drivers under the age of 24 must have a blood alcohol level of 0.00;
+------------------------------------------------------------------------------------------
+Czech
+../media/images/4993.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+t
+t
+t
+18
+t
+f
+Right of way must be given to motorists approaching from the right, at uncontrolled intersections. Trams have right of way over other motorists, except for emergency vehicles.
+20:00-06:00
+All occupants of the vehicle must wear a seatbelt if equipped.
+Children less than 150cm must be placed in an appropriate child contraint.
+t
+[50,90,130]
+[50,90,130]
+[50,80,80]
+t
+Stopping or parking is prohibited where visibility is poor or the vehicle could cause an obstruction, such as on a curve. Solid yellow lines along the side of the roadway indicate parking prohibitions. Parking lights must be enabled when parking on a street that is poorly lit.
+0.05
+[["Indicates that there is likely to be fog ahead.","..\/media\/images\/4148.png"],["Indicated frequent accident area","..\/media\/images\/1076.png"],["No parking zone","..\/media\/images\/9185.jpg"],["Pedestrian zone","..\/media\/images\/6117.jpg"],["Bus lane","..\/media\/images\/4149.jpg"],["Customs ahead","..\/media\/images\/6351.jpg"]]
+m
+Radar detectors are permitted, however radar detectors that interfere with police equipment (such as radar jammers) are prohibited; There is no horn curfew outside of central Prague;
+------------------------------------------------------------------------------------------
+Denmark
+../media/images/3028.png
+["A valid driver's licence", "A sticker of your country of origin on the back of your vehicle, unless your licence plate includes the blue Euro-Strip on the lefthand side.", "Motor insurance certificate"]
+r
+t
+t
+f
+f
+18
+t
+t
+Right of way must be given to motorists approaching from the right, at uncontrolled intersections.
+null
+All occupants of the vehicle must wear seatbelts.
+Children less than 150cm must be placed in an appropriate child contraint.
+t
+[50,80,110]
+[50,80,110]
+[50,80,110]
+t
+null
+0.05
+null
+m
+Cycling is very popular in Denmark, so make sure to keep an eye out for cyclists, especially when changing lanes; When waiting at a level crossing, you must only use your dipped headlights; Driving offences in Denmark can be reported to your country of origin and you may consequentially accumulate demerits; Studded tires are prohibited;
+------------------------------------------------------------------------------------------
+France
+../media/images/1855.png
+["EU or EAA drivers licence", "Proof of insurance", "Proof of ID (Passport)", "Registration document","A sticker of your country of origin on the back of your vehicle"]
+r
+t
+t
+t
+t
+18
+t
+t
+Motorists must give way to vehicles approaching from the right. In addition, motorists travelling downhill must yield the right of way to those travelling uphill.
+20:00-06:00
+All occupants of the vehicle must wear seatbelts.
+Children under the age of 10 are not permitted in the front passenger seat without an appropriate child restraint, unless there are no rear seats, rear seats are occupied by younger children, or there are no seatbelts in the rear seats.
+t
+[80,50,130]
+[80,50,130]
+[80,50,130]
+t
+Parking is only permitted on the righthand side of appropriate roadways, except for one-way streets. A solid yellow line next to the kerb indicates that stopping AND parking are prohibited, whereas a broken yellow line only prohibits parking.
+0.05
+[["There is likely to be congestion ahead","..\/media\/images\/1538.png"],["High frequency of accidents in this area","..\/media\/images\/6489.png"],["Explosives in vehicles in prohibited","..\/media\/images\/3588.png"],["End of no-honking zone","..\/media\/images\/6636.png"],["Alternative sign for 'Pass on this side'","..\/media\/images\/309.png"],["Residential area and corresponding speed limit","..\/media\/images\/8561.png"],["Pharmacy ahead","..\/media\/images\/73.png"],["Built-up area sign","..\/media\/images\/5273.jpg"],["Stop: toll","..\/media\/images\/8505.png"]]
+m
+Drivers with less than three years of driving experience must maintain an alcohol level of less than 0.02; Motorists are prohibited from wearing headsets; Petrol and deisel vehicles produced before 1997 are prohibited in Paris between 08:00 and 20:00; A "Crit'Air" clean air sticker is required for all drivers to display (Cost: €3.00); Motorways in France are private and you are not allowed to call a company of your choice in case of an emergency: Orange telephones are situated at intervals along motorways in case you need assistance; Vehicles must carry a portable breathalyzer; It is mandatory to carry spare bulbs in your vehicle; A flashing red traffic light means no entry; A yellow arrow below a red traffic light means you may travel in the direction of the arrow, after giving way to other motorists in the intersection; Devices that warn drivers of speed camera locations are strictly prohibited; In poor visibility, speed limits can drop as low as 50km/h on all roadways; In the case of an offence, France may transfer you to authorities in your country of origin for prosecution; Most motorways in France require a toll;
+------------------------------------------------------------------------------------------
+Germany
+../media/images/2582.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership"]
+r
+t
+t
+t
+t
+18
+t
+t
+Motorists to the right have priority. Busses and school busses have priority over other vehicles when departing from a bus stop. One must not overtake a schoolbus with its red lights flashing outside of built-up areas. 
+null
+All occupants are required to wear a seatbelt.
+Children over three years old must be transported on the rear seats of vehicles. A child under 12 years of age and measuring less than 1.50 m travelling in any type of vehicle must be seated in a child seat or child restraint.
+t
+[50,100,null]
+[50,100,null]
+[50,80,100]
+t
+Parking is only permitted on the righthand side of appropriate roadways, except for one-way streets. Parking and waiting is prohibited: <ul><li>Within corresponding signs</li><li>5m of a pedestrian crossing</li><li>Narrow roads or roads with poor visibility</li><li>Roads with zigzag lines along the side</li><li>On priority roads outside of built-up areas.</li></ul>
+0.05
+[["Level crossing without barriers","..\/media\/images\/2948.png"],["Level crossing","..\/media\/images\/6676.png"],["Vehicles carrying explosives are prohibited.","..\/media\/images\/3314.png"],["One-way street","..\/media\/images\/7610.png"],["Pharmacy ahead","..\/media\/images\/3258.png"],["Bus stop","..\/media\/images\/5747.png"],["End of built-up area","..\/media\/images\/4342.png"],["Toll","..\/media\/images\/3155.png"]]
+m
+There are no toll routes in germany for private vehicles under 7.5 tonnes; A red light with a green arrow may be present, meaning motorist may proceed in the direction of the arrow after giving right of way to all other vehicles; Radar detectors are prohibited; For drivers who held their license for less than 3 years and for motorists under the age of 21, no blood alcohol is allowed;
+------------------------------------------------------------------------------------------
+Greece
+../media/images/8564.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership"]
+r
+t
+t
+f
+t
+18
+t
+f
+Outside of built-up areas, main roads have priority (indicated by yellow diamonds with a thick white border). In built-up areas, motorists approaching from the right have priority.
+null
+All occupants must wear a seatbelt where equipped. 
+Children under 3 must be placed in the appropriate child restraint. If a child in a rear-facing child restraint is placed in the front seats, the airbag for that seat must be deactivated.
+t
+[40,70,90]
+[50,110,130]
+[50,80,80]
+f
+null
+0.05
+[["Yield","..\/media\/images\/2029.png"],["Railway crossing","..\/media\/images\/1825.png"],["Dangerous shoulder","..\/media\/images\/7348.png"],["Fog likely","..\/media\/images\/2681.png"],["Indicates temporary danger","..\/media\/images\/7884.png"],["Indicates speed limit","..\/media\/images\/6411.png"],["Vehicles carrying explosives are prohibited","..\/media\/images\/7032.png"],["Hospital","..\/media\/images\/6395.png"],["Built-up area begins","..\/media\/images\/1773.png"],["Tolls ahead","..\/media\/images\/8402.png"]]
+m
+Drivers who held their license for less than two years must limit their alcohol level to 0.02;
+------------------------------------------------------------------------------------------
+Hungary
+../media/images/2931.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+t
+t
+t
+18
+t
+t
+Priority is given to vehicles travelling on a main road indicated by a yellow diamond with a white border. Trams have right of way over other motorists, except for emergency vehicles.
+null
+All occupants are required to wear a seatbelt on public roads.
+Children less than 150cm must be placed in an appropriate child contraint.
+t
+[50,90,130]
+[50,90,130]
+[50,70,80]
+t
+Stopping is prohibited:<ul><li>If indicated by road signs</li><li>Where the vehicle would cause an obstruction or obscure road signs or traffic lights</li><li>5m from an intersection</li><li>Painted zigzag lines on the side of the road</li></ul>Parking is prohibited:<ul><li>Where stopping is prohibited</li><li>Where indicated loading area</li><li>Parked in a cycle lane</li><li>Parked illegally in a spot reserved for handicapped.</li></ul>
+0.00
+[["Frequent accidents in the area","..\/media\/images\/9458.png"],["No motor vehicles","..\/media\/images\/1310.png"],["No trailers\/caravans","..\/media\/images\/9613.png"],["Vehicles with explosives are prohibited.","..\/media\/images\/5525.png"],["Alternative \"Pass on this side\" sign.","..\/media\/images\/8854.png"],["Bus lane","..\/media\/images\/5723.png"],["Pharmacy ahead","..\/media\/images\/2140.png"]]
+m
+Only motorcycles and private cars may travel constantly in the lefthand lane of a motorway with two or more lanes;
+------------------------------------------------------------------------------------------
+Ireland
+../media/images/6889.png
+["A valid driver's licence", "A sticker of your country of origin on the back of your vehicle, unless your licence plate includes the blue Euro-Strip on the lefthand side."]
+l
+f
+f
+f
+f
+17
+t
+f
+Motorists to the right have priority.
+23:30-07:00
+Yield right of way to vehicles travelling on the principle road (Indicated by signs). At an intersection of two roads of equal priority, yield right of way to vehicles on the right.
+Children under 12 or 150cm tall must use an appropriate child restraint.
+t
+[50,80,120]
+[50,80,120]
+[50,80,120]
+t
+Parking is prohibited:<ul><li>Parked in a cycle lane</li><li>Parked illegally in a spot reserved for handicapped.</li></ul>
+0.05
+[["Alternative sign for yield","..\/media\/images\/9373.png"],["Stop ahead","..\/media\/images\/8660.png"],["There is likely traffic ahead","..\/media\/images\/841.png"],["Train crossing with barriers ahead (alternative sign)","..\/media\/images\/3938.png"],["Dangerous shoulder","..\/media\/images\/8347.png"],["Area is prone to accidents","..\/media\/images\/3018.png"],["Vehicles with explosives prohibited","..\/media\/images\/6500.png"],["No stopping","..\/media\/images\/5217.png"],["Crosswalk","..\/media\/images\/9506.png"],["Lane ends","..\/media\/images\/4812.png"],["Pedestrian zone","..\/media\/images\/4894.png"],["Bus lane","..\/media\/images\/8175.png"],["Pharmacy ahead","..\/media\/images\/8437.png"]]
+i
+Ireland has many motorways with tolls that only accept cash; Radar detectors are illegal; Ireland is still transitioning from the imperial to the metric system, so few signs may still be measured in miles;
+------------------------------------------------------------------------------------------
+Italy
+../media/images/8814.png
+["Full valid driving licence", "Civil Liability Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+t
+t
+t
+18
+t
+f
+Motorists to the right have priority.
+null
+All occupants must wear a seatbelt where equipped.
+Children travelling in foreign-registered cars must be secured according to the legislation in force in the country of origin.
+t
+[50,90,130]
+[50,90,130]
+[50,70,80]
+f
+Paid parking is indicated by blue paint. In Rome, parking is prohibited in the city centre near historical sights between 07:00 and 20:00 on weekdays.
+0.05
+[["Alternative traffic light sign, where horizontal traffic lights are used.","..\/media\/images\/4108.png"],["Likely to be traffic ahead","..\/media\/images\/2534.png"],["Area prone to accidents","..\/media\/images\/239.png"],["Vehicles carrying explosives are prohibited.","..\/media\/images\/5716.png"],["End of speed limit zone","..\/media\/images\/7430.png"],["Pedestrian zone","..\/media\/images\/1580.png"],["Bus lane","..\/media\/images\/3604.png"],["Hospital ahead","..\/media\/images\/5310.png"],["Pharmacy ahead","..\/media\/images\/3113.png"],["Tunnel","..\/media\/images\/1901.png"]]
+m
+Spare tyres are compulsory; Vehicles with a seriously ill occupant are authorized to exceed the posted speed limit; Pregnant women with a medical certificate are authorized not to wear seatbelts; Speed limits change frequently according to weather conditions and visibility; Speed radars and GPS devices capable of searching points-of-interest are prohibited; Drivers with less than three years experience must have no alcohol prior to driving;
+------------------------------------------------------------------------------------------
+Macedonia
+../media/images/1892.png
+["EU or EAA drivers licence", "Proof of insurance", "Proof of ID (Passport)", "Registration document","A sticker of your country of origin on the back of your vehicle"]
+r
+t
+t
+f
+t
+18
+t
+t
+Priority is given to vehicles travelling on a main road indicated by a yellow diamond with a white border. If null are present, motorists approaching from the right have priority.
+null
+All occupants must wear seatbelts where equipped.
+Children under 12 may not travel in the front seat.
+t
+[null,null,null]
+[null,null,null]
+[null,null,null]
+t
+null
+0.05
+null
+m
+Snow chains are required from November 15th to March 15th; Macedonia has several toll motorways, many of which only accept cash; Radar detectors are prohibited in the vehicle, even if they are switched off; Features on GPS devices that allow motorists to locate fixed speed cameras must be disabled; No alcohol is permitted for novice drivers who have less than two years of experience; Individuals under the influence of alcohol must not occupy any of the front seats; Should your car be damaged before or during your travel through Macedonia, a police-issued certificate is required to acknowledge the damage once you leave the country; There are no default speed limits for Macedonian roads, however, speed limits are posted on signs at regular intervals;
+------------------------------------------------------------------------------------------
+Bosnia-Herzegovina
+../media/images/9314.png
+["Full valid driving licence", "Green Card", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)", "A sticker of your country of origin on the back of your vehicle", "V5 Registration Document", "If hiring a car, paperwork for the rental is required."]
+r
+t
+t
+f
+f
+18
+t
+t
+Motorists to the right have priority, except for vehicles on rails. Vehicles travelling up a mountain have priority. Pedestrians at crosswalks have priority when they indicate that they want to cross.
+null
+All occupants must wear seatbelts.
+Children under the age of five must be seated in an appropriate child restraint. Children under 12 may not sit in the front.
+t
+[60,80,120]
+[60,80,120]
+[60,80,120]
+t
+f
+0.05
+[["No vehicles carrying explosives","..\/media\/images\/4333.jpg"]]
+m
+Not all insurance companies cover travel in Bosnia-Herzegovina, however temporary insurance may be purchased at most border posts; Individuals under the influence of alcohol must not occupy any of the front seats; Do not travel off-road in areas, since you run the risk of activating undetonated land mines; Winter tyres are compulsory between November 15th to April 15th;
+------------------------------------------------------------------------------------------
+Slovenia
+../media/images/946.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership"]
+r
+t
+t
+t
+t
+18
+t
+t
+Motorists to the right have priority, except for vehicles on rails. Busses leaving from the bus stop have right of way.
+23:00-06:00
+All occupants must wear a seatbelt where equipped.
+Special seatbelts or child restraints must be used for children less than 150cm in height. Children who travel in the front in a child restraint must have their airbag deactivated.
+t
+[50,110,130]
+[50,110,130]
+[50,90,100]
+t
+In city centres, several temporary parking spots are situated. Paid parking garages are available for longer periods of parking. "White zones" are parking spots with a limit of two hours (may be toll parking). "Blue zones" are parking spots with a limit of 30 minutes (may be toll parking).
+0.05
+[["Railway crossing","..\/media\/images\/9440.png"],["Tunnel ahead","..\/media\/images\/1462.png"],["Frequent accident zone","..\/media\/images\/5475.png"],["Vehicles carrying explosives are prohibited.","..\/media\/images\/3912.png"],["Bus lane","..\/media\/images\/823.png"],["No through road","..\/media\/images\/4620.png"]]
+m
+You may overtake a vehicle to the right if the vehicle to be overtaken is turning left; Using horns are prohibited within the vicinity of hospitals, unless indicating absolute danger; Studded tyres are prohibited; Alcohol for novice drivers with less than two years of experience is prohibited;
+------------------------------------------------------------------------------------------
+Switzerland
+../media/images/9304.png
+["Full valid driver's licence", "Proof of insurance", "Proof of ID (Passport)", "Registration document","A sticker of your country of origin on the back of your vehicle", "A motorway sticker if you are using motorways in Switzerland during your travel."]
+r
+t
+t
+f
+f
+18
+t
+f
+Give way to vehicles approaching from the right or approaching from main roads indicated by a yellow diamond with a thick-white border.
+null
+All occupants must wear seatbelts at all times.
+Children under the age of seven must not sit in the front.
+t
+[50,80,120]
+[50,80,120]
+[50,80,120]
+f
+null
+0.05
+null
+m
+Radar detection equipment is prohibited; Dipped headlights must be used when travelling through tunnels; GPS functions that allows the user to locate fixed speed cameras must be deactivated; During the day, you must sound your horn when going around a turn of poor visibility, and at night, flash your headlights instead; Alcohol limit for new drivers and learning drivers is 0.01;
+------------------------------------------------------------------------------------------
+Serbia
+../media/images/4001.png
+["Full valid driver's licence", "Proof of insurance", "Proof of ID (Passport)", "Registration document","A sticker of your country of origin on the back of your vehicle, with the background being the flag of your country of origin.", "Rental paperwork if you are hiring a car.", "International Driving Permit"]
+r
+t
+t
+f
+t
+18
+t
+f
+Motorists approaching from the right have priority. Trams and emergency vehicles have priority over all other vehicles.
+22:00-06:00
+All occupants must wear a seatbelt at all times.
+Children under age 12 can't travel in the front seat and must use an appropriate seat restraint in the back.
+t
+[null,null,null]
+[null,null,null]
+[null,null,null]
+t
+null
+0.03
+[["Fog likely","..\/media\/images\/5978.png"],["Frequent accident zone","..\/media\/images\/6687.png"],["First aid ahead","..\/media\/images\/7342.png"]]
+m
+Snow chains and winter tyres are required between November 1st to April 1st; Spare bulbs must be present for the vehicles external lights; If your insurance does not cover insurance in Serbia, temporary insurance can be bought at the Serbian border; Serbia has several toll routes which accept most means of electronic payment; There are no default speed limits in Serbia, but signs will be posted indicating current limits; Do not travel off-road in areas, since you run the risk of activating undetonated land mines;
+------------------------------------------------------------------------------------------
+Romania
+../media/images/7150.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership"]
+r
+t
+t
+t
+t
+18
+t
+t
+Right of way must be given to motorists from the right.
+22:00-06:00
+All occupants in the vehicle must wear a seatbelt.
+Children under the age of 12 must not travel in the front.
+t
+[50,90,130]
+[50,90,130]
+[50,90,130]
+t
+Drivers may only park on the righthand side of a roadway, even on one-way streets.
+0.00
+[["Frequent accident zone","..\/media\/images\/4834.png"],["Max. weight for tandem axle","..\/media\/images\/4147.png"],["Vehicles with explosives are prohibited.","..\/media\/images\/5113.png"],["One way","..\/media\/images\/981.png"],["Pedestrian zone with max. speed","..\/media\/images\/8616.png"],["Toll","..\/media\/images\/1167.png"]]
+m
+Trams must be overtaken on the right;
+------------------------------------------------------------------------------------------
+Ukraine
+../media/images/6629.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "International Driving Permit (IDP 1949)"]
+r
+t
+t
+f
+t
+18
+t
+f
+Give way to vehicles approaching from the right or approaching from main roads indicated by a yellow diamond with a thick-white border.
+null
+Motorist and front-seat passengers must wear seatbelts.
+Children less than 12 years of age and less than 145cm must be fitted with an appropriate child restraint.
+t
+[60,110,130]
+[60,110,130]
+[60,110,130]
+f
+null
+0.00
+[["Traffic likely","..\/media\/images\/38.gif"],["Tunnel ahead","..\/media\/images\/9013.gif"],["Frequent accident zone","..\/media\/images\/8058.gif"],["Vehicles carrying explosives are prohibited.","..\/media\/images\/6369.gif"],["Residential zone. Typically, a regulatory sign will be posted below to indicate speed limit for the area.","..\/media\/images\/4384.gif"],["Bus lane","..\/media\/images\/3262.gif"],["Hospital","..\/media\/images\/6074.gif"],["First aid","..\/media\/images\/9054.gif"],["Pharmacy ahead","..\/media\/images\/1146.png"]]
+m
+A 0.02 alcohol limit is allowed for motorists who present a medical certificate which permit them to use medication containing alcohol;
+------------------------------------------------------------------------------------------
+Poland
+../media/images/8259.png
+["Full valid driving licence", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership"]
+r
+t
+t
+t
+f
+18
+t
+t
+Give way to vehicles approaching from the right or approaching from main roads indicated by a yellow diamond with a thick-white border.
+null
+Motorist and front-seat passengers must wear seatbelts on surfaced roads. In the rear, wearing a seatbelt is only required where equipped.
+Children under the age of 12 and less than 150cm tall must be placed in an appropriate child restraint. The child in the restraint cannot be placed in the front seat that has an airbag present, even if deactivated.
+f
+[50,90,140]
+[50,90,140]
+[50,70,80]
+t
+Waiting and parking is prohibited in areas of obstruction.
+0.02
+[["Yield\/Give Way","..\/media\/images\/8851.png"],["Dangerous shoulder","..\/media\/images\/1100.png"],["Frequent accidents in the area","..\/media\/images\/9585.png"],["Vehicles with explosives are prohibited","..\/media\/images\/3417.png"],["Residential area","..\/media\/images\/3637.png"],["Bus lane","..\/media\/images\/7701.png"],["Hospital ahead","..\/media\/images\/332.png"],["End of built-up area","..\/media\/images\/1034.png"]]
+m
+Motorcyclists are not required helmets if keeping speed under 40km/h; Trams must be overtaken on the right; In built-up areas, speed limits increase to 60km/h between 23:00 and 5:00; By default, residential zones have a speed limit of 20km/h; Radar-interfering equipment is strictly prohibited; Most triangular signs seen throughout Europe will be present in Poland in a yellow-background alternative;
+------------------------------------------------------------------------------------------
+Netherlands
+../media/images/7341.png
+["A valid driver's licence", "A sticker of your country of origin on the back of your vehicle, unless your licence plate includes the blue Euro-Strip on the lefthand side.", "V5 motor insurance certificate"]
+r
+t
+f
+f
+f
+18
+t
+f
+Give way to vehicles approaching from main roads indicated by a yellow diamond with a thick-white border. If no such sign is present, give way to motorists approaching from the right. Trams have priority over all other vehicles. Cyclists and mopeds have priority over other vehicles.
+null
+All occupants must wear a seatbelt at all times.
+Children under age 3 must travel in the back, using a suitable seat restraint. Children aged 3 to 12 can travel in the front or back, as long as they're using an appropriate child seat.
+f
+[null,null,null]
+[null,null,null]
+[null,null,null]
+t
+null
+0.05
+[["Fog likely","..\/media\/images\/7042.png"],["Frequent accident zone","..\/media\/images\/1719.png"],["Pharmacy ahead","..\/media\/images\/2849.png"],["Control point","..\/media\/images\/1356.png"]]
+m
+Speed limits vary across the Netherlands, so refer to signposted limits; Radar detection equipment is prohibited in vehicles; Maximum alcohol for new drivers with less than five years of experience is 0.02, as well as moped drivers up to the age of 24; Do not cross solid white lines, even when turning off roads;
+------------------------------------------------------------------------------------------
+Spain
+../media/images/1960.png
+["Full valid driving licence (EEA or EU)", "Proof of Insurance", "Proof of ID (Passport)", "V5C Certificate as Proof of Ownership", "A sticker of your country of origin on the back of your vehicle, unless your licence plate includes the blue Euro-Strip on the lefthand side."]
+r
+t
+t
+t
+f
+18
+t
+f
+Give way to vehicles approaching from main roads indicated by a yellow diamond with a thick-white border. If no such sign is present, give way to motorists approaching from the right. Vehicles on rails and emergency vehicles have ultimate priority.
+null
+Required for front seat occupants. Occupants in vehicles manufactured after June 15th 1992 must also wear seatbelts in the rear.
+Children up to the age of 12 and measuring less than 135cm travelling on the front seat of a car must be seated in a child restraint system adapted to their size and weight. Children measuring more than 135cm may use an adult seat belt.
+t
+[50,90,120]
+[50,90,120]
+[50,70,90]
+t
+Parking is prohibited within five metres of a bend or intersection. Yellow zigzags on the side of a road indicate parking prohibition. Straight yellow lines indicate either prohibition or restriction of parking. Blue parking zones indicate two hour parking during the day, but unlimited parking between 20:00 and 08:00.
+0.05
+[["Fog likely","..\/media\/images\/9131.png"],["Frequent accident zone","..\/media\/images\/8072.png"],["Vehicles carrying explosives are prohibited","..\/media\/images\/7090.png"],["Bus lane","..\/media\/images\/8691.png"],["Pharmacy ahead","..\/media\/images\/4628.png"],["Built-up area begins","..\/media\/images\/4203.png"],["Control point (May have text above and below to specify type of control)","..\/media\/images\/8603.png"]]
+m
+Drivers with less than two years of experience must keep their alcohol level below 0.03; 
+------------------------------------------------------------------------------------------
+Portugal
+../media/images/1783.png
+["Full valid driving licence (EEA or EU)", "Proof of Insurance", "V5C Certificate as Proof of Ownership", "A sticker of your country of origin on the back of your vehicle, unless your licence plate includes the blue Euro-Strip on the lefthand side.", "A yellow '90' disc displayed in the car if you've held your licence for less than a year"]
+r
+t
+t
+t
+f
+18
+t
+f
+Motorists to the right have priority. Motorists must yield right of way to pedestrians and tram passengers discharged in the centre of the street.
+22:00-06:00
+All occupants must wear seatbelts at all times.
+Children under the age of 12 must not sit in the front.
+t
+[50,90,120]
+[50,90,120]
+[50,90,120]
+t
+null
+0.05
+[["Caution, fog likely","..\/media\/images\/8202.png"],["Vehicles carrying explosives are prohibited","..\/media\/images\/7707.png"],["Bus lane","..\/media\/images\/8976.png"],["Pharmacy ahead","..\/media\/images\/672.png"],["Example of a sign indicating the beginning of a built up area.","..\/media\/images\/2037.png"],["Toll","..\/media\/images\/5942.png"]]
+m
+If you usually wear glasses, you must carry a spare pair in the vehicle; All vehicles must carry spare bulbs for the vehicle's external lights; At petrol stations, there is often a €0.50 fee for using a credit card or any other means of electronic payment; Radar detection equipment is prohibited from being in any vehicle, even if switched off; The maximum alcohol allowed for drivers with less than three years of experience is 0.02; Motorists must not carry a can of petrol in the vehicle; Do not use green lanes on motorways, as for they are reserved for motorists with an automatic payment system;
+------------------------------------------------------------------------------------------
+United Kingdom
+../media/images/1455.png
+["Driver's Licence", "Proof of ID (Passport)", "Appropriate insurance documents", "International drivers permit"]
+l
+t
+f
+f
+f
+17
+t
+f
+Give way to motorists approaching from the right, despite that he UK has lefthand traffic.
+23:30-07:00
+All occupants aged 14 and over must wear a seatbelt where fitted.
+During unexpected circumstances, children are not required to be seated in a child restraint. However, the child must be seated in the back and wear an adult seatbelt if the occupant is older than three years. Children under the age of three are not required to wear a seatbelt.
+t
+[30,60,70]
+[30,60,70]
+[30,60,70]
+t
+Solid yellow lines near the kerb of the roadway indicate parking restrictions apply: refer to signposted details. Double yellow lines along the kerb indicate that parking is prohibited.
+0.08
+[["Frequent accident zone","..\/media\/images\/6229.png"],["Vehicles carrying explosives are prohibited.","..\/media\/images\/1728.png"],["Minimum safe distance","..\/media\/images\/5306.png"],["End of overtaking prohibition","..\/media\/images\/5358.png"],["Advisory speed limit","..\/media\/images\/2221.png"],["Residential area","..\/media\/images\/8507.png"],["Bus lane","..\/media\/images\/4034.png"],["Hospital with accident and emergency department","..\/media\/images\/336.png"],["Hospital without accident and emergency department","..\/media\/images\/8366.png"],["Pharmacy ahead","..\/media\/images\/8256.png"],["Vehicles carrying explosives are prohibited","..\/media\/images\/5735.jpg"],["Traffic signals not in use","..\/media\/images\/9571.jpg"],["School crossing patrol ahead","..\/media\/images\/5700.jpg"],["Symbols showing detour route from motorway to reroute traffic. Other symbols may include a triangle, diamond, or circle","..\/media\/images\/1534.jpg"],["Countdown to the exit of the motorway (Each bar representing 100 yards)","..\/media\/images\/4828.jpg"]]
+i
+Should you be driving a left-hand-drive vehicle in the United Kingdom, pay special attention to oncoming traffic since your view may be obstructed by vehicles close to the kerb; If you wish to hire a car in the United Kingdom, companies will often provide you with a manual vehicle unless you request an automatic; Pass to your right; There is no \"Right on Red\" equivalent in the UK, so no, you may not turn left on a red light, unless indicated by a traffic arrow; Roundabouts are very frequent in the UK (often exceeding two lanes) and it is important to understant who has priority at these junctions; Box junctions have a yellow box with a criss-cross yellow line pattern within, which mean that you must wait for traffic to clear before entering the junction;
+------------------------------------------------------------------------------------------
+Luxembourg
+../media/images/6398.png
+["Full valid driving licence (EEA or EU)", "Proof of Insurance", "V5C Certificate as Proof of Ownership", "A sticker of your country of origin on the back of your vehicle, unless your licence plate includes the blue Euro-Strip on the lefthand side.", "A yellow '90' disc displayed in the car if you've held your licence for less than a year"]
+r
+t
+t
+t
+f
+18
+t
+f
+Give way to vehicles approaching from main roads indicated by a yellow diamond with a thick-white border. If no such sign is present, give way to motorists approaching from the right. Vehicles on rails and emergency vehicles have ultimate priority. All busses have priority when pulling out from a bus stop. On steep roads, traffic traveling uphill has priority.
+null
+All occupants must wear seatbelts at all times.
+Children under the age of three must be seated in the appropriate child restraint. Children weighing over 36kg can use the lap part of an adult seat belt. Children up to 1.5m tall can't travel in the front seat without a suitable seat restraint.
+t
+[50,90,130]
+[50,90,130]
+[50,90,130]
+t
+null
+0.08
+[["Caution, fog likely","..\/media\/images\/6541.gif"],["Frequent accident zone","..\/media\/images\/6108.gif"],["Vehicles carrying explosives are prohibited","..\/media\/images\/1462.gif"],["One way","..\/media\/images\/4356.gif"],["Bus lane","..\/media\/images\/7581.gif"],["First aid ahead","..\/media\/images\/671.gif"]]
+m
+Winter tyres are compulsory during winter conditions (no set date); If you held your licence for less than two years, you must not exceed 70km/h;
