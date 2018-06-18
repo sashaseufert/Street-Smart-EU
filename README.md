@@ -1,5 +1,5 @@
 WEBSITE LINK:
-<a href="streetsmarteu.000webhostapp.com">Website Link</a>
+[StreetSmart](http://streetsmarteu.000webhostapp.com)
 
 Sasha Seufert
 June 4th, 2018
